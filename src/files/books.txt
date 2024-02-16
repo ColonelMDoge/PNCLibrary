@@ -1,0 +1,25 @@
+Java The Complete Reference 11th Edition,false
+The Pragmatic Programmer,false
+Java All-In-One 7th Edition,false
+Java Pocket Guide 4th Edition,false
+Functional Programming In Java,false
+EVE: The Empyrean Age,false
+EVE: Templar One,false
+Star Wars: Legacy of the Force,false
+The Expanse: Leviathan Wakes,false
+Ready Player One,false
+Nelson: Function 11,false
+Calculus II For Dummies,false
+Discrete Mathematics: An Open Introduction,false
+An Introduction to Statistics,false
+Applied Probability,true
+Principles of Finance,false
+Fundamentals of Corporate Finance,false
+Personal Finance For Dummies,false
+The Ultimate Finance Book,false
+Finance and Investment Handbook,false
+Automotive Technology 4th Edition,false
+Auto Body Repair Technology,false
+Student Pilot's Flight Manual,false
+Geometric Designs of Highways and Streets,false
+Principles of Railway Engineering,false

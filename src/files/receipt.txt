@@ -1,0 +1,9 @@
+---------------------------------------------------------
+PNC LIBRARY DATABASE
+---------------------------------------------------------
+Account Name: Alex2
+Day: 5
+Book Borrowed: Applied Probability
+Return Date: 15
+Thank you, and have a good day!
+---------------------------------------------------------
